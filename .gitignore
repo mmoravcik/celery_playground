@@ -1,0 +1,44 @@
+.noseids
+.cache
+.virtualenv
+.project
+.pydevproject
+*.py[co]
+.idea
+# Packages
+*.egg
+*.egg-info
+dist
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+dump.rdb
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+# Heyhey stuff
+static/build
+media
+heyhey3/conf/local.py
+deploy
+static/src/libs
+
+#Translations
+*.mo
+
+
+node_modules
+npm-debug.log
+
+
+.pytest_cache/
+*.DS_Store*
